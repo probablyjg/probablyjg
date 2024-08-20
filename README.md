@@ -15,7 +15,6 @@
     - ❄️ Nix / NixOS,
     - ⭐ Gleam,
     - 👽 Clojure.
-- 😄 Pronouns: he / him.
 
 <!---
 probablyjg/probablyjg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
